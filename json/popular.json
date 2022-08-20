@@ -1,0 +1,37 @@
+[
+    {
+    "title": "Coding Challenges",
+    "name": "Favour Tells",
+    "text":"Mobile app",
+    "img": "img/new.jpg",
+    "time": "2 days ago",
+    "prize": "150"
+    },
+
+    {
+    "title": "Recipe App",
+    "name": "Kemi Jenny",
+    "text":"Mobile app",
+    "img": "img/images1.jpeg",
+    "time": "2 days ago",
+    "prize": "500"
+    },
+
+    {
+    "title": "Payment App",
+    "name": "Devine Kibbs",
+    "text":"Mobile app",
+    "img": "img/images2.jpeg",
+    "time": "2 days ago",
+    "prize": "300"
+    },
+
+    {
+    "title": "School App",
+    "name": "Tems Badmus",
+    "text":"Mobile app",
+    "img": "img/images3.jpeg",
+    "time": "2 days ago",
+    "prize": "450"
+    }
+]
